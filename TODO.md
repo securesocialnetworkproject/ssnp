@@ -7,3 +7,4 @@
    -   [ ] Automate contributor 
 - [ ] Write MANIFESTO.md
 - [ ] Write README.md
+- [ ] Verify how to add sponsors
