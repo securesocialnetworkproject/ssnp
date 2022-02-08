@@ -8,4 +8,3 @@
 6. Serviço de fotos: Seguirá as mesmas regras do serviço de chat. Os vídeos não serão armazenados. Caso queira o tempo maior de permanência terá que pagar;
 7. Marketplace: Todo produto vendido será cobrado para ter maior visibilidade. As formas de pagamento incluem as convencionais e cripto moedas, podendo ser pago em partes por diferentes métodos;
 8. Cripto moeda: O projeto terá uma cripto moeda para quem quiser investir e para usar em alguns serviços como anúncios ou venda de produtos;
-9. Feito!!!
