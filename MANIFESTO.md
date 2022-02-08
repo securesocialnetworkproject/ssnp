@@ -1,10 +1,10 @@
 # Manifesto Secure Social Network Project
 
-1. Uma Rede social amigável, com posts anti-fake news, anti-discursos de ódio, com serviço de chat, fotos, news como os existentes.
-2. Código open source (https://github.com/securesocialnetworkproject/ssnp) * Poderá ter colaboradores, tanto com desenvolvimento como com ideias;
-3. As postagens serão verificadas se não são fake news, se não tem discurso de ódio, antes de serem publicadas;
-4. Os usuários podem filtrar os assuntos dos posts que não querem receber (política, religião, entre outros…);
-5. Serviço de chat: O serviço terá o mesmo perfil dos posts e ficaram armazenados por determinado tempo. Alguns conteúdos só poderão ser enviados perante   pagamento;
-6. Serviço de fotos: Seguirá as mesmas regras do serviço de chat. Os vídeos não serão armazenados. Caso queira o tempo maior de permanência terá que pagar;
-7. Marketplace: Todo produto vendido será cobrado para ter maior visibilidade. As formas de pagamento incluem as convencionais e cripto moedas, podendo ser pago em partes por diferentes métodos;
-8. Cripto moeda: O projeto terá uma cripto moeda para quem quiser investir e para usar em alguns serviços como anúncios ou venda de produtos;
+1. A friendly social network, with anti-fake news posts, anti-hate speeches, with chat service, photos, news like the existing ones.
+2. Open source code (https://github.com/securesocialnetworkproject/ssnp) * You can have collaborators, both with development and with ideas;
+3. Posts will be verified if they are not fake news, if they do not contain hate speech, before being published;
+4. Users can filter the subjects of posts they do not want to receive (politics, religion, among others…);
+5. Chat service: The service will have the same profile as the posts and will be stored for a certain time. Some content can only be sent upon payment;
+6. Photo service: It will follow the same rules as the chat service. Videos will not be stored. If you want a longer stay, you will have to pay;
+7. Marketplace: Every product sold will be charged for greater visibility. Payment methods include conventional and cryptocurrencies, and can be paid in parts by different methods;
+8. Cryptocurrency: The project will have a cryptocurrency for those who want to invest and to use it in some services such as advertising or selling products;
