@@ -36,6 +36,15 @@ Examples of unacceptable behavior include:
   without their explicit permission
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
+* Do not be mean or rude.
+* Do not discriminate against anyone.
+* Sexism and racism of any kind (including sexist and racist "jokes"), demeaning or insulting behaviour and harassment are seen as direct violations to this Code of Conduct. Harassment includes offensive verbal comments related to age, body size, culture, ethnicity, gender expression, gender identity, level of experience, nationality, personal ability or disability, physical appearance, physical or mental difference, race, religion, set of skills, sexual orientation, socio-economic status, and subculture. Harassment also includes sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, inappropriate physical contact, and unwelcome sexual attention.
+* Respect that some individuals and cultures consider the casual use of profanity offensive and off-putting.
+* Derailing, tone arguments and otherwise playing on people's desires to be nice are not welcome, especially in discussions about violations to this Code of Conduct.
+* Please avoid unstructured critique.
+* Likewise any spamming, trolling, flaming, baiting or other attention-stealing behaviour is not welcome.
+* Publishing others' private information, such as a physical or electronic address, without explicit permission
+* Other conduct which could reasonably be considered inappropriate in a professional setting
 
 ## Enforcement Responsibilities
 
