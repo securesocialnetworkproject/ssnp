@@ -9,4 +9,4 @@
 - [ ] Write MANIFESTO.md
 - [ ] Write README.md
 - [ ] Verify how to add sponsors
-- [ ] Create landing page and publish at github
+- [ ] Create landing page and publish in github
